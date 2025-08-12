@@ -1,0 +1,7 @@
+streamlit==1.28.0
+Pillow==10.1.0
+# Add your ML framework and related libraries here, e.g.:
+tensorflow==2.15.0
+torch==2.1.0
+torchvision==0.16.0
+opencv-python==4.8.1.78
